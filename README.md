@@ -1,2 +1,2 @@
 # sitestreaming
-Exemplo de página de Streming estilo Netflix
+Exemplo de página de Streaming estilo Netflix
